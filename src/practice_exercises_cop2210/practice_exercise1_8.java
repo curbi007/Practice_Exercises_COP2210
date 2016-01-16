@@ -9,5 +9,6 @@ package practice_exercises_cop2210;
  * @author Carlos
  */
 public class practice_exercise1_8 {
+    public class
     
 }
