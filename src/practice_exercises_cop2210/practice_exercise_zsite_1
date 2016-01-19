@@ -1,0 +1,32 @@
+/*
+*
+*This code is copied from 2.2 on zsite 
+*
+*/
+
+public class practice_exercise_zsite_1 {
+  public static void main (String[] args) 
+    {
+    
+    //Start 
+    int litter_size    =3; //low end of litter size range 
+    int yearly_litters = 5; //low end of litters per year 
+    int anual_mice      = 0;
+    
+    System.out.print("One femila emoust may give birth to ");
+    annualMice = litter_size * yearly_litter;
+    System.out.println(annual_mice + " " mice,"); 
+    
+    litter_size    = 14; //High end 
+    yearly_litters = 10; //High end 
+    System.out.print("and up to ");
+    annual_mice = litter_size * yearly_litter;
+    System.out.println(annual_mice + " mice, in a year."); 
+    
+    //la fin. 
+    }
+    }
+    
+    
+    
+    
